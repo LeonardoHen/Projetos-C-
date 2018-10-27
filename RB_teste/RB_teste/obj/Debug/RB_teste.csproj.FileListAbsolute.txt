@@ -1,0 +1,10 @@
+D:\Projetos C#\RB_teste\RB_teste\bin\Debug\RB_teste.exe.config
+D:\Projetos C#\RB_teste\RB_teste\bin\Debug\RB_teste.exe
+D:\Projetos C#\RB_teste\RB_teste\bin\Debug\RB_teste.pdb
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.csprojResolveAssemblyReference.cache
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.Form1.resources
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.Properties.Resources.resources
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.csproj.GenerateResource.cache
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.csproj.CoreCompileInputs.cache
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.exe
+D:\Projetos C#\RB_teste\RB_teste\obj\Debug\RB_teste.pdb

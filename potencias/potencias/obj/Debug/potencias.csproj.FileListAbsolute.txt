@@ -1,0 +1,6 @@
+C:\Users\leonardo\source\repos\potencias\potencias\bin\Debug\potencias.exe.config
+C:\Users\leonardo\source\repos\potencias\potencias\bin\Debug\potencias.exe
+C:\Users\leonardo\source\repos\potencias\potencias\bin\Debug\potencias.pdb
+C:\Users\leonardo\source\repos\potencias\potencias\obj\Debug\potencias.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\potencias\potencias\obj\Debug\potencias.exe
+C:\Users\leonardo\source\repos\potencias\potencias\obj\Debug\potencias.pdb

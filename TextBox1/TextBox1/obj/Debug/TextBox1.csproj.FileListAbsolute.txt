@@ -1,0 +1,10 @@
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\bin\Debug\TextBox1.exe.config
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\bin\Debug\TextBox1.exe
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\bin\Debug\TextBox1.pdb
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.Form1.resources
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.Properties.Resources.resources
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.exe
+C:\Users\leonardo\source\repos\TextBox1\TextBox1\obj\Debug\TextBox1.pdb

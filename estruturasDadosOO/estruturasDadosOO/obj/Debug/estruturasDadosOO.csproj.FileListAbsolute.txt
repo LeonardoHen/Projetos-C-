@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\bin\Debug\estruturasDadosOO.exe.config
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\bin\Debug\estruturasDadosOO.exe
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\bin\Debug\estruturasDadosOO.pdb
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\obj\Debug\estruturasDadosOO.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\obj\Debug\estruturasDadosOO.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\obj\Debug\estruturasDadosOO.exe
+C:\Users\leonardo\source\repos\estruturasDadosOO\estruturasDadosOO\obj\Debug\estruturasDadosOO.pdb

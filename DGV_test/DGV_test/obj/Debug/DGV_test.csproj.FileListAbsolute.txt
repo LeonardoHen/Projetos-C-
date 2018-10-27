@@ -1,0 +1,10 @@
+D:\Projetos C#\DGV_test\DGV_test\bin\Debug\DGV_test.exe.config
+D:\Projetos C#\DGV_test\DGV_test\bin\Debug\DGV_test.exe
+D:\Projetos C#\DGV_test\DGV_test\bin\Debug\DGV_test.pdb
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.csprojResolveAssemblyReference.cache
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.Form1.resources
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.Properties.Resources.resources
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.csproj.GenerateResource.cache
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.csproj.CoreCompileInputs.cache
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.exe
+D:\Projetos C#\DGV_test\DGV_test\obj\Debug\DGV_test.pdb

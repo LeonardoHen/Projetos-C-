@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\bin\Debug\ocorrencia.exe.config
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\bin\Debug\ocorrencia.exe
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\bin\Debug\ocorrencia.pdb
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\obj\Debug\ocorrencia.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\obj\Debug\ocorrencia.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\obj\Debug\ocorrencia.exe
+C:\Users\leonardo\source\repos\ocorrencia\ocorrencia\obj\Debug\ocorrencia.pdb

@@ -1,0 +1,8 @@
+C:\Users\leonardo\source\repos\textbox\textbox\bin\Debug\textbox.dll
+C:\Users\leonardo\source\repos\textbox\textbox\bin\Debug\textbox.pdb
+C:\Users\leonardo\source\repos\textbox\textbox\obj\Debug\textbox.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\textbox\textbox\obj\Debug\textbox.UserControl1.resources
+C:\Users\leonardo\source\repos\textbox\textbox\obj\Debug\textbox.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\textbox\textbox\obj\Debug\textbox.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\textbox\textbox\obj\Debug\textbox.dll
+C:\Users\leonardo\source\repos\textbox\textbox\obj\Debug\textbox.pdb

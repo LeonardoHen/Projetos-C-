@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\bin\Debug\vetorCrescente.exe.config
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\bin\Debug\vetorCrescente.exe
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\bin\Debug\vetorCrescente.pdb
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\obj\Debug\vetorCrescente.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\obj\Debug\vetorCrescente.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\obj\Debug\vetorCrescente.exe
+C:\Users\leonardo\source\repos\vetorCrescente\vetorCrescente\obj\Debug\vetorCrescente.pdb

@@ -1,0 +1,9 @@
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\bin\Debug\CalculadoraFaculdade.exe.config
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\bin\Debug\CalculadoraFaculdade.exe
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\bin\Debug\CalculadoraFaculdade.pdb
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.Form1.resources
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.Properties.Resources.resources
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.exe
+C:\Users\leonardo\source\repos\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.pdb

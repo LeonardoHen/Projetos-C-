@@ -1,0 +1,10 @@
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.Form1.resources
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.Properties.Resources.resources
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.csproj.GenerateResource.cache
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\Label\Label\bin\Debug\Label.exe.config
+C:\Users\leonardo\source\repos\Label\Label\bin\Debug\Label.exe
+C:\Users\leonardo\source\repos\Label\Label\bin\Debug\Label.pdb
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.exe
+C:\Users\leonardo\source\repos\Label\Label\obj\Debug\Label.pdb

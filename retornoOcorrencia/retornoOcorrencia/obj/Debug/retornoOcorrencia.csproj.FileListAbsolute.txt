@@ -1,0 +1,6 @@
+C:\Users\leonardo\source\repos\retornoOcorrencia\retornoOcorrencia\bin\Debug\retornoOcorrencia.exe.config
+C:\Users\leonardo\source\repos\retornoOcorrencia\retornoOcorrencia\bin\Debug\retornoOcorrencia.exe
+C:\Users\leonardo\source\repos\retornoOcorrencia\retornoOcorrencia\bin\Debug\retornoOcorrencia.pdb
+C:\Users\leonardo\source\repos\retornoOcorrencia\retornoOcorrencia\obj\Debug\retornoOcorrencia.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\retornoOcorrencia\retornoOcorrencia\obj\Debug\retornoOcorrencia.exe
+C:\Users\leonardo\source\repos\retornoOcorrencia\retornoOcorrencia\obj\Debug\retornoOcorrencia.pdb

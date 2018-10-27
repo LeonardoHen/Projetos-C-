@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\bin\Debug\query_inicial.exe.config
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\bin\Debug\query_inicial.exe
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\bin\Debug\query_inicial.pdb
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\obj\Debug\query_inicial.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\obj\Debug\query_inicial.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\obj\Debug\query_inicial.exe
+C:\Users\leonardo\source\repos\query_inicial\query_inicial\obj\Debug\query_inicial.pdb

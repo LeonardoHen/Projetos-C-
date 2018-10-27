@@ -1,0 +1,7 @@
+D:\Projetos C#\dividir\dividir\bin\Debug\dividir.exe.config
+D:\Projetos C#\dividir\dividir\bin\Debug\dividir.exe
+D:\Projetos C#\dividir\dividir\bin\Debug\dividir.pdb
+D:\Projetos C#\dividir\dividir\obj\Debug\dividir.csprojResolveAssemblyReference.cache
+D:\Projetos C#\dividir\dividir\obj\Debug\dividir.csproj.CoreCompileInputs.cache
+D:\Projetos C#\dividir\dividir\obj\Debug\dividir.exe
+D:\Projetos C#\dividir\dividir\obj\Debug\dividir.pdb

@@ -1,0 +1,7 @@
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\obj\Debug\estruturasOO.csprojResolveAssemblyReference.cache
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\obj\Debug\estruturasOO.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\bin\Debug\estruturasOO.exe.config
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\bin\Debug\estruturasOO.exe
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\bin\Debug\estruturasOO.pdb
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\obj\Debug\estruturasOO.exe
+C:\Users\leonardo\source\repos\estruturasOO\estruturasOO\obj\Debug\estruturasOO.pdb
